@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_report">Report</string>
+
+
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="messages_header">Messages</string>
+
+    <!-- Preference Titles -->
+    <string name="signature_title">Your signature</string>
+
+    <!-- Messages Preferences -->
+    <string name="temp_title">Temperature </string>
+
+
+    <string-array name="city_name">
+        <item>Delhi</item>
+        <item>Mumbai</item>
+        <item>Noida</item>
+    </string-array>
+
+</resources>
